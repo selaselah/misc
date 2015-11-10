@@ -1,3 +1,5 @@
 1/send/send
 2/new_task/new_task
 2/worker/worker
+3/emit_log/emit_log
+3/recv_logs/recv_logs

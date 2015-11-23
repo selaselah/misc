@@ -57,6 +57,7 @@ func main() {
 			ContentType: "text/plain",
 			Body:        []byte(body),
 		})
+	failOnError(err, "Failed to publishing message")
 
 	// time.Sleep(10 * time.Second)
 }

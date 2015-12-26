@@ -2,3 +2,11 @@
 1/recv/recv
 2/new_task/new_task
 2/worker/worker
+3/emit_log/emit_log
+3/recv_logs/recv_logs
+4/emit_log/emit_log
+4/recv_logs/recv_logs
+5/emit_log/emit_log
+5/recv_logs/recv_logs
+6/rpc_cli/rpc_cli
+6/rpc_srv/rpc_srv
